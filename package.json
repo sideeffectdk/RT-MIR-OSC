@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sideeffectdk/rt-mir-osc/issues"
   },
-  "homepage": "https://github.com/sideeffectdk/rt-mir-osc#readme"
+  "homepage": "https://github.com/sideeffectdk/rt-mir-osc#readme",
+  "dependencies": {
+    "essentia.js": "^0.1.3"
+  }
 }
