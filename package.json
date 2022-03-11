@@ -1,0 +1,19 @@
+{
+  "name": "rt-mir-osc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sideeffectdk/rt-mir-osc.git"
+  },
+  "author": "Henrik Sæderup",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sideeffectdk/rt-mir-osc/issues"
+  },
+  "homepage": "https://github.com/sideeffectdk/rt-mir-osc#readme"
+}
