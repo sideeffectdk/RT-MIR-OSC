@@ -1,11 +1,40 @@
 {
   "name": "rt-mir-osc",
   "version": "0.0.1",
-  "description": "",
+  "description": "Audio feature extraction and music information retrieval tool with the main purpose of taking in realtime audio and outputting OSC data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "MIR",
+    "OSC",
+    "audio-feature",
+    "realtime",
+    "beat-tracker",
+    "machine",
+    "learning",
+    "classification",
+    "extraction",
+    "analyse",
+    "RT",
+    "music",
+    "information",
+    "retrieval",
+    "live",
+    "audio",
+    "input",
+    "waveform",
+    "FFT",
+    "ZCR",
+    "spectral",
+    "time-domain",
+    "perceptual",
+    "DSP",
+    "digital",
+    "signal",
+    "processing"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sideeffectdk/rt-mir-osc.git"
