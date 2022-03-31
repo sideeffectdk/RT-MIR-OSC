@@ -4,7 +4,8 @@
   "description": "Audio feature extraction and music information retrieval tool with the main purpose of taking in realtime audio and outputting OSC data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node app.js"
   },
   "keywords": [
     "MIR",
@@ -14,6 +15,7 @@
     "beat-tracker",
     "machine",
     "learning",
+    "machine-learning",
     "classification",
     "extraction",
     "analyse",
@@ -21,6 +23,7 @@
     "music",
     "information",
     "retrieval",
+    "music-information-retrieval",
     "live",
     "audio",
     "input",
@@ -29,11 +32,13 @@
     "ZCR",
     "spectral",
     "time-domain",
+    "audio-signal-processing",
     "perceptual",
     "DSP",
     "digital",
     "signal",
-    "processing"
+    "processing",
+    "webaudio"
   ],
   "repository": {
     "type": "git",
@@ -46,6 +51,7 @@
   },
   "homepage": "https://github.com/sideeffectdk/rt-mir-osc#readme",
   "dependencies": {
-    "essentia.js": "^0.1.3"
+    "essentia.js": "^0.1.3",
+    "osc-js": "^2.3.0"
   }
 }
